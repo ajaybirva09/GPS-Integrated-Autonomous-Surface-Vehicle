@@ -3,6 +3,7 @@ Developed an autonomous surface vehicle with GPS integration for precise depth m
 
 
 #problem Statement
+
 Accurate and detailed information about water bodies is crucial for various applications, including environmental monitoring, hydrographic surveys, aquaculture management, and recreational activities. Traditional methods of gathering water depth and quality data can be labour-intensive, time-consuming, and limited in scope. Autonomous systems offer a promising solution to these challenges by enabling continuous, high-resolution data collection with minimal human intervention.
 
 
