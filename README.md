@@ -41,6 +41,9 @@ Autonomous Surface Vehicles (ASVs) equipped with advanced sensors and Global loc
 
 ## Setup and Installation
 ![Untitled Diagram drawio (5)](https://github.com/user-attachments/assets/06c4e8a8-789d-4006-9240-e28caa0300d2)
+### Water Quality testing
+
+![Untitled Diagram drawio (3)](https://github.com/user-attachments/assets/e032cb15-99a6-42d4-9522-1116d4e20073)
 
 
 
