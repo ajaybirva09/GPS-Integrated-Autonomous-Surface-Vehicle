@@ -5,7 +5,6 @@ This project involves the development of an autonomous surface vehicle (ASV) int
 ## Table of Contents
 
 - [Overview](#overview)
-- [Abstract](#abstract)
 - [Components](#components)
 - [Features](#features)
 - [Setup and Installation](#setup-and-installation)
@@ -15,9 +14,6 @@ This project involves the development of an autonomous surface vehicle (ASV) int
 
 ## Overview
 
-Accurate and detailed information about water bodies is crucial for various applications, including environmental monitoring, hydrographic surveys, aquaculture management, and recreational activities. Traditional methods of gathering water depth and quality data can be labor-intensive, time-consuming, and limited in scope. Autonomous systems offer a promising solution to these challenges by enabling continuous, high-resolution data collection with minimal human intervention.
-
-## Abstract
 Autonomous Surface Vehicles (ASVs) equipped with advanced sensors and Global location System GPS technology are revolutionizing the exploration and monitoring of aquatic environments. This project focuses on enhancing depth mapping and environmental water testing through the integration of autonomous navigation systems. Traditional methods for depth mapping and water quality monitoring, often labor-intensive and limited in scope, face challenges in efficiency, accuracy, and coverage. The ASV addresses these issues by using sonar for high-resolution depth data collection and sensors to continuously measure water quality parameters such as temperature, pH, and turbidity. The integration of GPS technology enables precise navigation, allowing for comprehensive surveys over larger areas. By automating these processes, the ASV reduces operational costs, minimizes human error, and provides timely data for better environmental management. This project offers an advanced, cost-effective solution for monitoring aquatic environments and early detection of environmental changes and this project focuses on small scale. 
 
 ## Components
