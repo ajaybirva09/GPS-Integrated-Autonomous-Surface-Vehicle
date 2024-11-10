@@ -40,7 +40,7 @@ Autonomous Surface Vehicles (ASVs) equipped with advanced sensors and Global loc
 - **Sustainable Power**: Designed with sustainable power systems for extended operational autonomy.
 
 ## Setup and Installation
-
+![Untitled Diagram drawio (5)](https://github.com/user-attachments/assets/06c4e8a8-789d-4006-9240-e28caa0300d2)
 
 
 
